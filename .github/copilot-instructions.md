@@ -3,8 +3,14 @@
 ## Project Overview
 Multi-step print configurator for FineArt/Giclee printing. Users configure print options through sequential steps with live preview and price updates.
 
-**Live Demo:** http://68.183.215.70:3000/
+**Live Server:** http://68.183.215.70:3000/
 **Figma Design:** https://www.figma.com/make/L0Cb8Tc1srUv36KJ7jUg1U/Product-Configurator-Design
+
+## ⚠️ IMPORTANT: No Local Testing
+- **This is a PRODUCTION SERVER** - no localhost, no local testing
+- All development and testing happens directly on the server
+- Always use the public IP (68.183.215.70) for testing
+- Never use `localhost` or `127.0.0.1`
 
 ## Architecture
 
