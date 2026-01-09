@@ -2,14 +2,19 @@
 
 Bu dosya, FineArt Configurator projesinin Figma tasarım linklerini içerir.
 
-## 🔗 Ana Tasarım Dosyaları
+## 🔗 Ana Tasarım Dosyası
 
-| Sayfa | Link | Açıklama |
-|-------|------|----------|
-| Cover & Flow | [Link ekleyin] | Proje kapağı ve akış diyagramı |
-| Desktop Main | [Link ekleyin] | Ana konfigüratör ekranı |
-| Component Library | [Link ekleyin] | Button, Card, Modal varyantları |
-| Responsive | [Link ekleyin] | Mobil ve tablet uyarlamaları |
+**Product Configurator Design:**
+https://www.figma.com/make/L0Cb8Tc1srUv36KJ7jUg1U/Product-Configurator-Design?t=jd0bRkEuFUpaZruK-20&fullscreen=1
+
+## 📐 Sayfa Yapısı
+
+| Sayfa | Açıklama |
+|-------|----------|
+| Cover & Flow | Proje kapağı ve akış diyagramı |
+| Desktop Main | Ana konfigüratör ekranı (1366px) |
+| Component Library | Button, Card, Modal varyantları |
+| Mobile Views | Mobil uyarlamalar |
 
 ## 📐 Figma Erişim
 
